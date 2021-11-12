@@ -1,3 +1,1 @@
----
-layout: default
----
+{%- include interests.html -%}{%- include bloggity.html -%}
